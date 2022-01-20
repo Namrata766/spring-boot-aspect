@@ -1,0 +1,9 @@
+server:
+  port: 9000
+  servlet:
+    context-path: /hello
+    
+logging:
+  level:
+    com: 
+     namrata: DEBUG    
